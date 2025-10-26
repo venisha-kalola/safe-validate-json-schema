@@ -1,6 +1,9 @@
 # safe-validate-json-schema
 
-Validate JSON against a JSON Schema and get **human-friendly**, prioritized fix suggestions.
+[![npm version](https://img.shields.io/npm/v/safe-validate-json-schema.svg)](https://www.npmjs.com/package/safe-validate-json-schema)
+[![license](https://img.shields.io/npm/l/safe-validate-json-schema.svg)](https://github.com/venisha-kalola/safe-validate-json-schema/blob/main/LICENSE)
+
+A safe and user-friendly JSON Schema validator with helpful error messages.
 
 ## Install
 
